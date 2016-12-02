@@ -1,0 +1,7 @@
+<layout version="0.1.0">
+    <helloworld_index_index>
+        <reference name="content">
+            <block type="helloworld/index" name="helloworld_index" template="helloworld/index.phtml"/>
+        </reference>
+    </helloworld_index_index>
+</layout>
